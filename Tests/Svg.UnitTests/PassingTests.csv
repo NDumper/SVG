@@ -47,6 +47,9 @@ painting-fill-01-t
 painting-fill-02-t
 painting-fill-03-t
 painting-fill-05-b
+painting-marker-01-f
+painting-marker-04-f
+painting-marker-06-f
 painting-stroke-01-t
 painting-stroke-02-t
 painting-stroke-04-t
@@ -177,6 +180,7 @@ __issue-143-01
 __issue-191-01
 __issue-202-01
 __issue-214-01
+__issue-215-01
 __issue-227-01
 __issue-227-02
 __issue-239-01
@@ -187,6 +191,7 @@ __issue-323-03
 __issue-329-01
 __issue-338-01_stroke_width
 __issue-342-01
+__issue-345-01
 __issue-354-01
 __issue-385-01_Test_text-anchor-middle
 __issue-398-01
